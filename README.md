@@ -20,7 +20,7 @@ Building a data warehouse with SQL server, including ETL processes, data modelin
 
 #### Objectives
 Develop SQL-based analytics to deliver detailed insights into:
--**Customer Behavior**
+- **Customer Behavior**
 - **Product Performance**
 - **Sales Trends**
 
